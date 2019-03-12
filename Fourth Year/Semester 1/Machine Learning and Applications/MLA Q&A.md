@@ -37,7 +37,7 @@ See 2.
 ### 4. What do you mean by dimensionality reduction?
 
 - Dimensionality reduction is the process of reducing the number of random variables taken into consideration by obtaining a set of principal variables. It is divided into feature selection and feature extraction.
-- Feature selection is the process of selecting selecting the most important `k` dimensions (features) out of the `d` input dimensions and discarding the remaining `(d - k)` dimensions.
+- Feature selection is the process of selecting the most important `k` dimensions (features) out of the `d` input dimensions and discarding the remaining `(d - k)` dimensions.
 - Feature extraction is the process of finding a new set of `k` dimensions, which are combinations/functions of the original `d` dimensions.
 - Eg: Principal Component Analysis (feature extraction), subset selection (feature selections), Linear Discriminant Analysis (feature extraction).
 
